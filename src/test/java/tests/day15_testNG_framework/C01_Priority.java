@@ -43,7 +43,7 @@ public class C01_Priority {
     TestNG hicbir mudahale olmazsa
     testleri isim sirasina gore calistirir
 
-    testlerin calisma sirasini istedigimiz sekilde duzenleyebiliriz
+    testlerin calisma siralamasini istedigimiz sekilde duzenleyebiliriz
 
     testlere verecegimiz priority degerlerinden
     kucukten buyuge dogru calistirir
